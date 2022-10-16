@@ -1,0 +1,1 @@
+console.log("Masai School" + "\n" + "A transformation in Education");
