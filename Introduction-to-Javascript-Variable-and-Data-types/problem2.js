@@ -1,6 +1,6 @@
 let name = "Rohit";
 console.log(name);
-name = "ASHOK SINGH";
+name = "uiioool";
 console.log(name);
-name = "kabita devi";
+name = "yuii";
 console.log(name);
